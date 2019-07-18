@@ -239,7 +239,7 @@
                                         <!-- Contact to Magstripe Fallback conditions -->
                                         <entry key="&lt;1F8122&gt;" value="001F00" />
                                         <!-- This configuration identifier -->
-                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V3" />
+                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V4" />
                                         <!-- PIN bypass supported -->
                                         <entry key="&lt;1F8114&gt;" value="01" />
                                         <!-- kernel debug logging disabled for production terminals-->
@@ -711,7 +711,7 @@
                                         <!-- Terminal Type -->
                                         <entry key="&lt;9F35&gt;" value="21" />
                                         <!-- This configuration identifier -->
-                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V3" />
+                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V4" />
                                         <!-- kernel logging -->
                                         <entry key="&lt;DFDD&gt;" value="00" />
                                         <!-- Message hold time -->
@@ -730,7 +730,7 @@
                                         <!-- custom bin range - set all as payment cards for testing-->
                                         <entry key="&lt;1F812F&gt;" value="06000000999999" />
                                         <!-- This configuration identifier -->
-                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V3" />
+                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V4" />
                                         <!-- Remove Sentinels and LRC -->
                                         <entry key="&lt;DFDB&gt;" value="00" />
                                         <entry key="&lt;1F8129&gt;" value="03" />
