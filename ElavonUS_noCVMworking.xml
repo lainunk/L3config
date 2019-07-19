@@ -664,7 +664,7 @@
                                             <!-- TAC Default -->
                                             <entry key="&lt;DF8120&gt;" value="FC509C8800" />
                                             <!-- TAC Denial -->
-                                            <entry key="&lt;DF8121&gt;" value="0000800000"/>
+                                            <entry key="&lt;DF8121&gt;" value="0000000000"/>
                                            
                                             <!-- TAC Online -->
                                             <entry key="&lt;DF8122&gt;" value="F45084800C" />
